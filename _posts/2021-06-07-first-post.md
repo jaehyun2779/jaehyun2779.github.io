@@ -3,7 +3,6 @@ title:  "유시민의 글쓰기 특강"
 excerpt: "유시민의 글쓰기 특강 독후감"
 
 categories:
-  - 독후감
   - 인문
 tags:
   - 유시민
