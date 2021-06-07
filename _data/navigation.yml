@@ -4,5 +4,7 @@ main:
     url: https://jaehyun2779.github.io/
   - title: "독후감"
     url: /categories/독후감/
+  - title: "Categories"
+    url: /categories/
   - title: "About"
     url: /about/
