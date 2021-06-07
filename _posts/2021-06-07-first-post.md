@@ -1,11 +1,13 @@
 ---
-title:  "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+title:  "유시민의 글쓰기 특강"
+excerpt: "유시민의 글쓰기 특강 독후감"
 
 categories:
-  - Blog
+  - 독후감/인문/독서
 tags:
-  - Blog
+  - 유시민
+  - 글쓰기
+  - 
 last_modified_at: 2021-06-07T16:10:00-05:00
 ---
 
