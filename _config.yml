@@ -20,7 +20,7 @@ title                    : "jaehyun blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jaehyun"
-description              : "Client Programmer / Technical Artist"
+description              : "메인" # "Client Programmer / Technical Artist"
 url                      : "https://jaehyun2779.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
